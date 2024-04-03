@@ -1,0 +1,16 @@
+{
+  "name": "traffic",
+  "type": "module",
+  "module": "src/index.ts",
+  "dependencies": {
+    "@asteasolutions/zod-to-openapi": "^6.4.0",
+    "content-type": "^1.0.5",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@tsconfig/strictest": "^2.0.5",
+    "@types/bun": "latest",
+    "@types/content-type": "^1.1.8",
+    "typescript": "^5.4.3"
+  }
+}
